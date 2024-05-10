@@ -1,0 +1,12 @@
+attivare il virtual environment pip: source apwebsite/bin/activate
+lanciare il web server locale: python manage.py runserver
+creare un db: python manage.py migrate
+
+python manage.py makemigrations blog
+python manage.py migrate blog
+
+python manage.py createsuperuser (user: malefica pw: C4dut4L1b3r4!)
+
+git 
+    user: malefica
+    email: alessia.profeta@gmail.com
